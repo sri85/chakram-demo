@@ -1,0 +1,12 @@
+{
+  "name": "moo-api",
+  "version": "1.0.0",
+  "scripts":{
+    "test": "./node_modules/mocha/bin/mocha tests/*/*"
+  },
+  "author": "Sripathi Pai",
+  "dependencies": {
+    "chakram": "1.5.0",
+    "mocha": "3.5.0"
+  }
+}
