@@ -1,5 +1,5 @@
 {
-  "name": "moo-api",
+  "name": "chakram-demo",
   "version": "1.0.0",
   "scripts":{
     "test": "./node_modules/mocha/bin/mocha tests/*/*"
