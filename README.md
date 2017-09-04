@@ -14,7 +14,7 @@ it more human readable.
 
 # Steps
 1. Navigate to `chakram-demo` folder
-2. Do `npm install`
+2. Run `npm install`
 3. Run `npm test`
 
 ### FootNotes:
