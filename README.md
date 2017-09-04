@@ -13,7 +13,7 @@ it more human readable.
 
 
 # Steps
-1. Navigate to `moo-api` folder
+1. Navigate to `chakram-demo` folder
 2. Do `npm install`
 3. Run `npm test`
 
