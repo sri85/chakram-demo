@@ -2,11 +2,13 @@
   "name": "chakram-demo",
   "version": "1.0.0",
   "scripts":{
-    "test": "./node_modules/mocha/bin/mocha tests/*/*"
+    "test": "./node_modules/mocha/bin/mocha tests/*/* --reporter mochawesome"
   },
   "author": "Sripathi Pai",
   "dependencies": {
     "chakram": "1.5.0",
-    "mocha": "3.5.0"
+    "mocha": "3.5.0",
+    "mochawesome": "^3.0.3",
+    "mochawesome-report-generator": "^3.1.3"
   }
 }
